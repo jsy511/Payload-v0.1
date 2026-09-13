@@ -1,0 +1,8 @@
+{
+    "name": "Payload",
+    "version": "0.1.0",
+    "theme": {
+        "primary": "pink",
+        "secondary": "green"
+    }
+}
